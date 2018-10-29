@@ -53,5 +53,6 @@ public class BasicosSalvadorGalindoMartinez {
          System.out.println(decimalsimple);
          System.out.println("Valor double");
          System.out.println(decimaldoble);
+         System.out.println(""); //Espacio para el merge
     }
 }
