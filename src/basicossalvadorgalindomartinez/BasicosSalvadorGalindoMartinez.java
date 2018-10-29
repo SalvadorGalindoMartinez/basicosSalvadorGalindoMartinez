@@ -46,6 +46,7 @@ public class BasicosSalvadorGalindoMartinez {
         
         compara = (x<y || x>y); //Aquí estamos utilizando || (or) si alguna expresión es verdadera el resultado será verdadero.
         System.out.println("x<y o x>y es: " + compara); //Una de las expresiones es verdadera, por lo tanto el resultado es verdadero.
+        System.out.println("");
     }
     
 }
