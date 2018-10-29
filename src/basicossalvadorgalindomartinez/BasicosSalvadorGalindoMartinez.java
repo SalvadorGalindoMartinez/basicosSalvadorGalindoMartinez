@@ -31,8 +31,6 @@ public class BasicosSalvadorGalindoMartinez {
         long superlargo;
         float decimalsimple;
         double decimaldoble;
-        char caractersimple;
-        boolean trueofalse;
         
         //Ejemplos de asignación de valores a las variables de tipos básicos
          elmaspequeño = 0;
@@ -41,8 +39,6 @@ public class BasicosSalvadorGalindoMartinez {
          superlargo = 1234567890;
          decimalsimple = 3.4f;
          decimaldoble = 13.3;
-         caractersimple = 'S';
-         trueofalse = true;
          
          //Mostrar en pantalla el contenido de las variables de tipos básicos
          System.out.println("Valor byte");
@@ -57,10 +53,5 @@ public class BasicosSalvadorGalindoMartinez {
          System.out.println(decimalsimple);
          System.out.println("Valor double");
          System.out.println(decimaldoble);
-         System.out.println("Valor char");
-         System.out.println(caractersimple);
-         System.out.println("Valor boolean");
-         System.out.println(trueofalse);   
     }
-    
-    }
+}
