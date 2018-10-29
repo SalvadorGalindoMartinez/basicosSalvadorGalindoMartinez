@@ -41,6 +41,7 @@ public class BasicosSalvadorGalindoMartinez {
         System.out.println("");
         System.out.println("Contenido del resto de Strings");
         System.out.println(s2 + s3 + s4 + s5 + s6);
+        System.out.println("");
         
     }
 }
